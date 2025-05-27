@@ -31,10 +31,7 @@ const developer = {
 ## 🎨 Fun Zone
 
 <div align="center">
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/Feuerlord2/Feuerlord2/blob/output/github-contribution-grid-snake-dark.svg)
-
+  
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Feuerlord2&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
