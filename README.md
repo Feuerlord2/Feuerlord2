@@ -16,15 +16,6 @@ const developer = {
 };
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feuerlord2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feuerlord2&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 ### 🚀 Featured Repositories
 
 <div align="center">
@@ -42,7 +33,7 @@ const developer = {
 <div align="center">
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/Feuerlord2/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Feuerlord2/Feuerlord2/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Feuerlord2&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
