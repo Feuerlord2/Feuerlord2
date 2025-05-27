@@ -25,14 +25,6 @@ const developer = {
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Feuerlord2&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-## 🎯 Current Projects
-
 ### 🚀 Featured Repositories
 
 <div align="center">
@@ -44,14 +36,6 @@ const developer = {
 ### 🔭 What I'm working on:
 - 📡 **Go Humble RSS** - Automated RSS feeds for Humble Bundle deals
 - 🤖 **Automation Tools** - Creating efficient solutions for everyday problems
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feuerlord2&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ## 🎨 Fun Zone
 
