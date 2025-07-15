@@ -1,11 +1,5 @@
 # 👋 Hi there, I'm Daniel!
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Building+Cool+Projects)](https://git.io/typing-svg)
-
-</div>
-
 ## 🚀 About Me
 
 ```typescript
@@ -27,15 +21,6 @@ const developer = {
 ### 🔭 What I'm working on:
 - 📡 **Go Humble RSS** - Automated RSS feeds for Humble Bundle deals
 - 🤖 **Automation Tools** - Creating efficient solutions for everyday problems
-
-## 🎨 Fun Zone
-
-<div align="center">
-  
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Feuerlord2&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 💬 Let's Connect!
 
